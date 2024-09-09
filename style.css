@@ -341,7 +341,7 @@ form .btn2{
         font-size: 30px;
     }
 
-    nav .fas {
+    nav .fa {
         display: block;
         font-size: 25px;
         cursor: pointer;
@@ -372,14 +372,13 @@ form .btn2{
     }
 
     .sub-title {      
-        font-size: 30px;  /* Reduced size for small screens */
+        font-size: 40px;  /* Reduced size for small screens */
     }
 
     .about-col-1, .about-col-2 {  
         flex-basis: 100%;  /* Stack columns vertically */
-        text-align: center;  /* Center content */
+        text-align: center;  /* Center content this imp for the 2nd img size*/
     }
-
     .about-col-1 {
         margin-bottom: 30px;
     }
